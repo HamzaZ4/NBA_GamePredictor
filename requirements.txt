@@ -1,0 +1,5 @@
+pandas~=2.3.0
+scikit-learn~=1.7.2
+nba_api
+numpy~=2.3.0
+nba_api~=1.10.0
